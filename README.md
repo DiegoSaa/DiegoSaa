@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diego Fernando Saavedra Lozano</h1>
 <h3 align="center">A passionate Front-End Developer from Colombia</h3>
 
+I have worked as a Front-End Developer and Research Student, gaining experience through daily assignments, courses and research.
+
 - 🔭 I’m currently working on **nbd**
 
 - 🌱 I’m currently learning **Next.js**
