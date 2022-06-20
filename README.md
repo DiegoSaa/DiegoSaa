@@ -3,9 +3,9 @@
 
 I have worked as a Front-End Developer and Research Student, gaining experience through daily assignments, courses and research.
 
-- 🔭 I’m currently working on **nbd**
+- 🔭 I’m currently working on **Syllableit**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & three.js**
 
 - 📫 How to reach me **diego.saavedra00@usc.edu.co**
 
